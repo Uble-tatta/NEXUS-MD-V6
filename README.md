@@ -1,4 +1,4 @@
-## thashmila👩‍💻 - A Javascript WhatsApp User Bot
+## thashmila👌 - A Javascript WhatsApp User Bot
 Nexus INC have been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️
 ### `6.0.0 Version`
 😎 `The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.`
